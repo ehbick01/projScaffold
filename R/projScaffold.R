@@ -27,4 +27,7 @@ projectScaffold <- function() {
     dir.create
   )
 
+  ### Add README file
+  file.create('README.md')
+
 }
