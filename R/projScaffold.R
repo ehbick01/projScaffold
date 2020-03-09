@@ -18,7 +18,8 @@ projectScaffold <- function() {
     'data',
     'data/imports',
     'data/exports',
-    'outputs'
+    'outputs',
+    'outputs/reporting'
   )
 
   ### Build project
