@@ -14,12 +14,12 @@ projectScaffold <- function() {
     'script',
     'script/analysis',
     'script/functions',
+    'script/apps',
     'queries',
     'data',
     'data/imports',
     'data/exports',
-    'outputs',
-    'outputs/reporting'
+    'outputs'
   )
 
   ### Build project
